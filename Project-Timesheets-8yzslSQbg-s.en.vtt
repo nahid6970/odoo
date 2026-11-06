@@ -1,0 +1,263 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.040 --> 00:00:06.160 align:start position:19%
+welcome ad previously we learned how to
+create a project and handle a task now
+
+00:00:04.600 --> 00:00:10.360 align:start position:19%
+let's move on and find out how we can
+organize the work on our ongoing project
+
+00:00:08.280 --> 00:00:14.080 align:start position:19%
+a little bit better that is fantastic
+Susanna because here at the Dinosaur
+
+00:00:12.360 --> 00:00:18.199 align:start position:19%
+Museum every day we're dealing with a
+ton of projects honestly and and it's
+
+00:00:16.560 --> 00:00:24.160 align:start position:19%
+kind of easy to lose track of which
+project needs some attention ah I know
+
+00:00:20.920 --> 00:00:28.439 align:start position:19%
+what you mean well luckily for you um OD
+project allows you to configure project
+
+00:00:26.080 --> 00:00:32.239 align:start position:19%
+stages and statuses which allows you to
+easily see your projects progress let's
+
+00:00:30.560 --> 00:00:35.280 align:start position:19%
+go ahead and see together how it's done
+in our database let's dive into our
+
+00:00:34.280 --> 00:00:39.680 align:start position:19%
+project
+application and here we can see all of
+
+00:00:37.760 --> 00:00:43.879 align:start position:19%
+our projects currently ongoing at the
+Dinosaur Museum as you can see there's a
+
+00:00:41.760 --> 00:00:48.760 align:start position:19%
+lot going on and the problem of this
+overview is that it gives us an idea
+
+00:00:45.840 --> 00:00:53.640 align:start position:19%
+about um our existing projects but it
+doesn't tell us how they're doing and
+
+00:00:50.680 --> 00:00:57.800 align:start position:19%
+where we are at the Project Life Cycle
+so for that let's go ahead and go into
+
+00:00:55.960 --> 00:01:05.479 align:start position:19%
+our configuration and
+settings and turn on our project stages
+
+00:01:02.440 --> 00:01:11.119 align:start position:19%
+going to go ahead and save this and once
+we've done that we can actually just go
+
+00:01:07.159 --> 00:01:14.560 align:start position:19%
+into our stages from here and then the
+pre-existing stages are the standard
+
+00:01:13.080 --> 00:01:20.159 align:start position:19%
+ones that you would expect so we have
+new in progress done consult and uh for
+
+00:01:18.159 --> 00:01:24.159 align:start position:19%
+our purposes we're actually going to add
+one more we're going to call it in
+
+00:01:24.640 --> 00:01:31.479 align:start position:19%
+review and another thing that you will
+notice here is this um uh list that
+
+00:01:29.640 --> 00:01:37.000 align:start position:19%
+allows us to select if something is
+folded in Canan or not so what it does
+
+00:01:34.560 --> 00:01:41.360 align:start position:19%
+is essentially it just hid hides uh the
+stage from immediate view the reason for
+
+00:01:39.640 --> 00:01:45.920 align:start position:19%
+that is just to declutter your screen a
+little bit from the stuff that you just
+
+00:01:42.920 --> 00:01:51.399 align:start position:19%
+don't need to look at so here by default
+done and canell are projects that you
+
+00:01:48.600 --> 00:01:56.680 align:start position:19%
+don't need to look at on regular basis
+so you can only unfold them when you
+
+00:01:53.719 --> 00:02:00.960 align:start position:19%
+need them so let's see what this looks
+like in our project dashboard and you
+
+00:01:58.159 --> 00:02:05.320 align:start position:19%
+see the view has changed
+um and our new stage has been created
+
+00:02:03.479 --> 00:02:08.879 align:start position:19%
+here by default as the last one we can
+simply drag and drop it to where we want
+
+00:02:06.880 --> 00:02:13.480 align:start position:19%
+it to
+be um and then if you want to look at
+
+00:02:11.160 --> 00:02:18.080 align:start position:19%
+your done St stage you can click quickly
+just click on it and then you would see
+
+00:02:15.319 --> 00:02:22.239 align:start position:19%
+all of your existing projects so for
+example I could say that fossil party
+
+00:02:20.160 --> 00:02:26.440 align:start position:19%
+project has actually been done I'll drop
+it here and I can fold or unfold it
+
+00:02:25.400 --> 00:02:31.879 align:start position:19%
+whenever I
+like um another thing that you could do
+
+00:02:29.239 --> 00:02:38.760 align:start position:19%
+is you could just click on the gear icon
+uh to decide to archive or unarchive all
+
+00:02:34.640 --> 00:02:43.840 align:start position:19%
+of the projects in a certain stage um so
+I could just say archive
+
+00:02:41.319 --> 00:02:49.440 align:start position:19%
+everything and then my D Stage is just
+cleared out everything has been
+
+00:02:46.519 --> 00:02:53.920 align:start position:19%
+archived all right uh another thing that
+I can do is if I want to notify the
+
+00:02:51.280 --> 00:02:59.599 align:start position:19%
+client when a project reaches a certain
+stage for example here with the done
+
+00:02:56.319 --> 00:03:02.319 align:start position:19%
+stage I could just click um on the gear
+icon
+
+00:03:00.440 --> 00:03:08.080 align:start position:19%
+select
+edit and I can set up an email or an SMS
+
+00:03:06.000 --> 00:03:14.319 align:start position:19%
+template for example this one here
+saying project has been completed and
+
+00:03:10.959 --> 00:03:18.879 align:start position:19%
+save and close so once I've done that
+the minute that I move another project
+
+00:03:16.799 --> 00:03:24.959 align:start position:19%
+into this done
+stage um the client will be
+
+00:03:21.879 --> 00:03:29.120 align:start position:19%
+automatically notified via an email uh
+about the fact that the project has been
+
+00:03:26.840 --> 00:03:35.000 align:start position:19%
+completed W Susan is that the
+notification already sounds like it wow
+
+00:03:31.799 --> 00:03:39.480 align:start position:19%
+that's fast um stages are pretty clear
+now but what about statuses is it the
+
+00:03:37.159 --> 00:03:45.120 align:start position:19%
+same thing that's a great question
+actually um and actually no so there are
+
+00:03:43.360 --> 00:03:49.280 align:start position:19%
+two different things and what's
+important to understand is that the
+
+00:03:46.599 --> 00:03:55.159 align:start position:19%
+project stages which we have seen just
+now um tell us where our project is at a
+
+00:03:52.720 --> 00:03:58.519 align:start position:19%
+certain point in its life cycle so they
+tell us that we're working on something
+
+00:03:56.560 --> 00:04:03.319 align:start position:19%
+something is in Pro progress and so on
+but they don't actually tell us how the
+
+00:04:00.760 --> 00:04:07.120 align:start position:19%
+project is doing so for example we could
+have something that's in review but
+
+00:04:05.560 --> 00:04:11.599 align:start position:19%
+actually it needs a lot of attention
+because the work is not going so well on
+
+00:04:09.239 --> 00:04:16.160 align:start position:19%
+the project or for example we could have
+a project that's in to-do stage but it's
+
+00:04:14.519 --> 00:04:22.320 align:start position:19%
+completely normal and the project is
+actually on truck so this is where the
+
+00:04:18.799 --> 00:04:27.000 align:start position:19%
+project statuses come in um and for the
+statuses you just by default have this
+
+00:04:23.880 --> 00:04:32.039 align:start position:19%
+little dot next to your project and if I
+click on it I can say uh something is on
+
+00:04:29.360 --> 00:04:37.520 align:start position:19%
+track at risk off track on hold and so
+on depending on your project status uh
+
+00:04:34.840 --> 00:04:42.280 align:start position:19%
+the project bar the progress bar here at
+the top of our column will also be
+
+00:04:39.759 --> 00:04:49.080 align:start position:19%
+impacted so you always have a bird eye
+overview of each project status uh in
+
+00:04:46.000 --> 00:04:53.360 align:start position:19%
+and project stage and where the project
+stands so I will just show you an
+
+00:04:51.080 --> 00:04:58.360 align:start position:19%
+example here I will drag D lectures into
+in progress column and if I give it a
+
+00:04:55.720 --> 00:05:02.320 align:start position:19%
+status say on hold you see immediately
+that the progress bar has gotten some
+
+00:05:00.240 --> 00:05:07.240 align:start position:19%
+color and you can easily see how your
+projects are doing hopefully this is a
+
+00:05:04.960 --> 00:05:13.280 align:start position:19%
+little bit more clear now um that's it
+for today thank you so much for watching
+
+00:05:09.120 --> 00:05:13.280 align:start position:19%
+and we will see you in another video
+

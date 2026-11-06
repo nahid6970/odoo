@@ -1,0 +1,417 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.040 --> 00:00:07.200 align:start position:19%
+welcome aders if your company provides
+services it is crucial for you to
+
+00:00:04.319 --> 00:00:10.639 align:start position:19%
+eventually get paid U offers several
+ways to invoice your clients for
+
+00:00:08.800 --> 00:00:15.400 align:start position:19%
+services and we will explore them in
+this video so you can choose between
+
+00:00:13.120 --> 00:00:20.160 align:start position:19%
+several invoicing types depending on
+your and your client's business needs so
+
+00:00:18.480 --> 00:00:24.720 align:start position:19%
+let's take the example of the dinosaur
+museum where we provide a range of
+
+00:00:22.400 --> 00:00:30.039 align:start position:19%
+services such as workshops team building
+activities and more so for services such
+
+00:00:28.199 --> 00:00:35.320 align:start position:19%
+as our team building workshops we
+invoice clients based on fixed rates it
+
+00:00:32.920 --> 00:00:39.200 align:start position:19%
+is the best solution since the workshops
+follow a designated flow and then we
+
+00:00:37.600 --> 00:00:43.200 align:start position:19%
+have all of the materials prepared in
+advance and also the amount of time that
+
+00:00:41.520 --> 00:00:47.559 align:start position:19%
+we spend working on the workshop doesn't
+really change even if we spend an hour
+
+00:00:45.440 --> 00:00:51.120 align:start position:19%
+more or less here and there it doesn't
+matter so because the price that we
+
+00:00:49.320 --> 00:00:54.520 align:start position:19%
+charge to the customer will always be
+the
+
+00:00:52.039 --> 00:00:59.000 align:start position:19%
+same then we also have invoicing based
+on time sheets which is very useful if
+
+00:00:56.800 --> 00:01:03.920 align:start position:19%
+we don't know up front how long the work
+on a certain project or task will take
+
+00:01:01.680 --> 00:01:08.799 align:start position:19%
+so in this case uh we invoice the
+clients the actual time that we spend
+
+00:01:05.840 --> 00:01:13.720 align:start position:19%
+working on the project um for the
+Dinosaur Museum we invoice some of our
+
+00:01:10.720 --> 00:01:17.920 align:start position:19%
+most special custom events like this and
+then last but not least we uh can also
+
+00:01:16.200 --> 00:01:22.320 align:start position:19%
+invoice clients based on the delivered
+quantity so this is a bit similar to
+
+00:01:20.159 --> 00:01:27.079 align:start position:19%
+fixed price uh since we charge a
+specific amount for our services uh but
+
+00:01:25.400 --> 00:01:31.280 align:start position:19%
+then what we do is we just manually
+update the amounts that we delivered
+
+00:01:29.079 --> 00:01:36.399 align:start position:19%
+before invoicing CL client so this is
+very useful for us uh in the case of our
+
+00:01:33.520 --> 00:01:40.520 align:start position:19%
+lectures for example where the client
+may decide that they would like to have
+
+00:01:38.399 --> 00:01:45.560 align:start position:19%
+more or less sessions during the
+duration of the project and then we also
+
+00:01:43.520 --> 00:01:48.560 align:start position:19%
+have invoicing by Milestones but this is
+actually something that we will see in
+
+00:01:46.799 --> 00:01:52.640 align:start position:19%
+another video all right this was a lot
+but don't worry we're going to see it in
+
+00:01:50.040 --> 00:01:58.920 align:start position:19%
+action just now so we will start with
+our sales application and let's take a
+
+00:01:55.640 --> 00:02:04.520 align:start position:19%
+look at our product so here you see that
+we already figures two uh of our
+
+00:02:01.880 --> 00:02:08.160 align:start position:19%
+services and just to make things easier
+we actually uh put the invoicing policy
+
+00:02:06.719 --> 00:02:12.400 align:start position:19%
+in the name here so we have our custom
+events which are based on time sheets
+
+00:02:10.560 --> 00:02:16.800 align:start position:19%
+and then we have the onsite Le lectures
+which are based on delivered
+
+00:02:14.200 --> 00:02:21.959 align:start position:19%
+quantity uh next up let's create one
+more service together we'll call it uh
+
+00:02:19.720 --> 00:02:21.959 align:start position:19%
+team
+
+00:02:22.239 --> 00:02:28.720 align:start position:19%
+building and let's put in the title here
+as well fixed
+
+00:02:26.560 --> 00:02:32.160 align:start position:19%
+price just to make things clear of
+course you don't have to put the
+
+00:02:29.879 --> 00:02:35.760 align:start position:19%
+invoicing policy in the in the name
+let's say that this is
+
+00:02:34.000 --> 00:02:40.360 align:start position:19%
+service and of course it will be
+invoiced by fixed price uh and then for
+
+00:02:38.519 --> 00:02:44.720 align:start position:19%
+the purpose of this video we will just
+say that this should create a task in
+
+00:02:42.720 --> 00:02:50.599 align:start position:19%
+our services project but of course if
+you want it to you can configure it um
+
+00:02:47.080 --> 00:02:56.159 align:start position:19%
+too much your needs and then this uh we
+will price it uh excuse me we will
+
+00:02:53.560 --> 00:03:01.840 align:start position:19%
+decide first that this comes in a 20h
+hour uh pack oh a 20 hour pack that's
+
+00:02:59.360 --> 00:03:06.560 align:start position:19%
+pretty interesting how did you set it up
+so actually we cons we configured our 20
+
+00:03:04.200 --> 00:03:10.519 align:start position:19%
+hour packs off screen if in the units of
+measure which you are very welcome to
+
+00:03:08.480 --> 00:03:14.360 align:start position:19%
+check out our documentation about but
+actually you're right we could just
+
+00:03:11.640 --> 00:03:19.040 align:start position:19%
+configure hourly price and I'm going to
+do it uh for this
+
+00:03:16.319 --> 00:03:24.000 align:start position:19%
+case so let's just set up
+our and let's say that this is a fixed
+
+00:03:21.239 --> 00:03:27.640 align:start position:19%
+price surface and it will cost €40 per
+hour it's going to be a bit simpler that
+
+00:03:25.760 --> 00:03:32.959 align:start position:19%
+way now let's see how this works in
+action so I'm going to save this
+
+00:03:30.560 --> 00:03:38.400 align:start position:19%
+and let's create a quotation for a
+client that we are often work with the
+
+00:03:35.760 --> 00:03:38.400 align:start position:19%
+Deep
+
+00:03:39.480 --> 00:03:50.599 align:start position:19%
+high and let's say that we will uh sell
+them our standard uh Team Building let's
+
+00:03:47.200 --> 00:03:56.280 align:start position:19%
+say we're going to put 20 hours of that
+again mirroring our 20 hour pack then
+
+00:03:53.159 --> 00:04:01.120 align:start position:19%
+we're going to add um 20 hours of custom
+event organization so let's say this is
+
+00:03:58.560 --> 00:04:05.319 align:start position:19%
+for an end of the year School event that
+we will start working
+
+00:04:02.640 --> 00:04:11.360 align:start position:19%
+on and then next up we will also add
+some uh lectures for the final year and
+
+00:04:08.720 --> 00:04:17.440 align:start position:19%
+let's say that we're going to sell
+five let me confirm
+
+00:04:14.079 --> 00:04:20.880 align:start position:19%
+that and we see here on our smart
+buttons that the tasks have been
+
+00:04:19.160 --> 00:04:26.320 align:start position:19%
+automatically created in my services
+projects let's take a look at them and
+
+00:04:24.040 --> 00:04:31.199 align:start position:19%
+the first app uh let's say that we're
+going to start working on our team
+
+00:04:28.080 --> 00:04:37.280 align:start position:19%
+building workshops so what happened is
+uh the system automatically allocated 20
+
+00:04:33.919 --> 00:04:42.199 align:start position:19%
+hours uh to this task but you know what
+let's say that I've actually got a
+
+00:04:39.960 --> 00:04:47.600 align:start position:19%
+little bit behind some unexpected events
+happened and I spent 25 hours working on
+
+00:04:45.400 --> 00:04:51.039 align:start position:19%
+this as soon as I fill in my time sheet
+everything becomes red but you know what
+
+00:04:49.520 --> 00:04:56.639 align:start position:19%
+I'll just keep it that
+way and so don't you need to validate
+
+00:04:53.520 --> 00:05:02.080 align:start position:19%
+those time sheets before we move on good
+question and actually in this case um
+
+00:05:00.479 --> 00:05:06.520 align:start position:19%
+this is something that depends on the
+configuration of time sheets in your
+
+00:05:03.960 --> 00:05:10.720 align:start position:19%
+database so uh if you go into your
+settings you can specify if you want all
+
+00:05:08.840 --> 00:05:15.120 align:start position:19%
+of the time sheets to be considered or
+just the validated ones so in this case
+
+00:05:13.199 --> 00:05:19.039 align:start position:19%
+we will take care of all of our time
+sheets we will not specify that we only
+
+00:05:16.919 --> 00:05:25.000 align:start position:19%
+need validated time sheets so just
+something for you to keep in
+
+00:05:21.240 --> 00:05:30.319 align:start position:19%
+mind next app uh I will pick our custom
+event organization task so again 20
+
+00:05:27.880 --> 00:05:33.759 align:start position:19%
+hours were allocated by default uh as
+this is what we put on the sales order
+
+00:05:31.840 --> 00:05:37.240 align:start position:19%
+but let's say here as well we ended up
+working a little bit longer and we spent
+
+00:05:35.360 --> 00:05:43.639 align:start position:19%
+25
+hours again same thing happens this goes
+
+00:05:39.600 --> 00:05:43.639 align:start position:19%
+on red but we'll just keep it like
+
+00:05:43.880 --> 00:05:52.319 align:start position:19%
+this perfect and now uh we also have of
+course our last task which is based on
+
+00:05:49.600 --> 00:05:56.960 align:start position:19%
+delivered quantity so for the onsite
+lectures we can log a time sheet if we
+
+00:05:54.560 --> 00:06:01.160 align:start position:19%
+want to but actually it will not impact
+our Sal sales order which we will see in
+
+00:05:58.880 --> 00:06:05.280 align:start position:19%
+a second and the allocated time time
+here as well is zero though we could add
+
+00:06:03.400 --> 00:06:10.840 align:start position:19%
+more time but it will not impact
+invoicing let me save this real
+
+00:06:08.319 --> 00:06:15.039 align:start position:19%
+quick all right so now that we've locked
+all of this time let's go ahead and see
+
+00:06:13.080 --> 00:06:20.080 align:start position:19%
+how this affected our sales
+order I will just use breadcrumbs and
+
+00:06:18.360 --> 00:06:24.639 align:start position:19%
+what we see right away is that the
+amounts uh this the lines that can
+
+00:06:22.440 --> 00:06:30.280 align:start position:19%
+already be invoiced have turned blue so
+you see it right here uh and what's not
+
+00:06:27.400 --> 00:06:34.800 align:start position:19%
+blue yet is the delivered quantity ser
+and for that to in order to invoice that
+
+00:06:32.440 --> 00:06:39.720 align:start position:19%
+all we need to do is just manually uh
+fill in the delivered amount so let's
+
+00:06:36.479 --> 00:06:43.400 align:start position:19%
+say you know what we just decided to uh
+do
+
+00:06:40.759 --> 00:06:49.919 align:start position:19%
+six uh lectures instead of five in the
+end that's it now all of my lines are
+
+00:06:46.560 --> 00:06:54.800 align:start position:19%
+ready to invoice so I will click Cate
+the invoice right away we'll say regular
+
+00:06:52.800 --> 00:06:58.560 align:start position:19%
+invoice here I could also select a time
+sheet period that I want to take into
+
+00:06:56.479 --> 00:07:05.680 align:start position:19%
+account uh but I will just leave it
+empty for now it's create the
+
+00:07:01.759 --> 00:07:10.080 align:start position:19%
+draft perfect and now our invoice is
+ready and what I what we actually would
+
+00:07:07.440 --> 00:07:16.120 align:start position:19%
+like to uh take a look at here is the
+quantities so you see that our team
+
+00:07:12.240 --> 00:07:21.720 align:start position:19%
+building is priced at fixed price of um
+and we agreed for 20 hours so even
+
+00:07:18.800 --> 00:07:25.120 align:start position:19%
+though if you remember we spent 25 hours
+we will only be able to invoice the
+
+00:07:23.160 --> 00:07:29.160 align:start position:19%
+clients for 20 hours since it's a fixed
+price
+
+00:07:26.199 --> 00:07:34.599 align:start position:19%
+service however for our based on time
+sheets service so our event planning we
+
+00:07:31.319 --> 00:07:38.560 align:start position:19%
+also initially sold 20 hours but since
+this is based on time sheets the fact
+
+00:07:36.199 --> 00:07:44.159 align:start position:19%
+that we work 25 hours allows us to
+invest the customer for the full amount
+
+00:07:41.240 --> 00:07:48.360 align:start position:19%
+of 25 hours and then next up for the
+based on delivered quantity service even
+
+00:07:46.639 --> 00:07:54.080 align:start position:19%
+though initially we thought it would be
+five we delivered six so we are able to
+
+00:07:51.560 --> 00:07:59.800 align:start position:19%
+invoice the customer for six lectures as
+well so we can just confirm this invoice
+
+00:07:57.680 --> 00:08:04.879 align:start position:19%
+receive our payment and move on right
+day I hope this helped you a little bit
+
+00:08:02.520 --> 00:08:09.319 align:start position:19%
+to understand uh the different invoicing
+policies policies in your project and
+
+00:08:07.840 --> 00:08:12.759 align:start position:19%
+thank you very much for watching we will
+see you in the next video
+

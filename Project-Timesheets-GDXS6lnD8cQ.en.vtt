@@ -1,0 +1,255 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.439 --> 00:00:09.599 align:start position:19%
+Hello doers. In project management,
+having multiple tasks on your hands is
+
+00:00:07.600 --> 00:00:13.440 align:start position:19%
+pretty common. Then you must decide in
+which order you want to perform them.
+
+00:00:11.599 --> 00:00:16.640 align:start position:19%
+Audio project allows you to choose the
+order in which you want to perform these
+
+00:00:14.880 --> 00:00:20.720 align:start position:19%
+tasks and share it with your team. Let's
+have a look. So here we are in our
+
+00:00:18.240 --> 00:00:24.640 align:start position:19%
+database. We will go into project
+configuration and settings. And first
+
+00:00:22.640 --> 00:00:29.920 align:start position:19%
+up, we'll just enable the task
+dependencies feature right here and save
+
+00:00:27.519 --> 00:00:34.559 align:start position:19%
+this configuration. Now remember that
+this will make uh test dependencies
+
+00:00:32.239 --> 00:00:38.879 align:start position:19%
+activated by default on every project
+you have. What if I want to turn it off
+
+00:00:36.640 --> 00:00:43.120 align:start position:19%
+for a project? Would that be possible?
+Sure. What you need to do in this case
+
+00:00:41.120 --> 00:00:48.239 align:start position:19%
+is go into the settings of the
+individual project. So I'm here on my
+
+00:00:45.280 --> 00:00:52.640 align:start position:19%
+projects. I'll take the Dino talks right
+here as an example. I'll go into
+
+00:00:49.960 --> 00:00:57.360 align:start position:19%
+settings again. And here you have the
+possibility to disable the task
+
+00:00:54.879 --> 00:01:04.640 align:start position:19%
+dependencies for this specific project.
+So, I'll do it right here. And that's
+
+00:01:00.120 --> 00:01:08.720 align:start position:19%
+it. Perfect. Let's move on and let's go
+and work on task dependencies in one of
+
+00:01:07.040 --> 00:01:13.920 align:start position:19%
+our ongoing projects. Let's take this
+one here, the Dino Summer Festival. And
+
+00:01:11.840 --> 00:01:18.000 align:start position:19%
+as you can imagine, uh on a project like
+this, some tasks have to be completed
+
+00:01:15.760 --> 00:01:21.920 align:start position:19%
+before the others. So, for example,
+sending invitations need to be done
+
+00:01:20.240 --> 00:01:25.759 align:start position:19%
+before the actual registration for the
+event can start. So to make sure that
+
+00:01:24.159 --> 00:01:31.280 align:start position:19%
+those tasks are performed in the right
+order, we will open the registration uh
+
+00:01:28.799 --> 00:01:36.079 align:start position:19%
+task right here and we have a new tab
+showing up here since we enabled the
+
+00:01:33.119 --> 00:01:41.400 align:start position:19%
+task dependencies, the blocked by tab.
+Let's click on it. Let's add a line and
+
+00:01:38.400 --> 00:01:46.560 align:start position:19%
+we're going to add our invites task
+here. If I uh I can see that my status
+
+00:01:44.479 --> 00:01:53.200 align:start position:19%
+has changed. And then if I click on the
+view um icon next to the task, I also
+
+00:01:50.240 --> 00:01:58.719 align:start position:19%
+see that on the invites task, I have a
+new uh smart button at the top uh
+
+00:01:55.520 --> 00:02:05.600 align:start position:19%
+displaying my uh blocked tasks. So the
+tasks that are blocked by this invites
+
+00:02:01.479 --> 00:02:10.879 align:start position:19%
+task. Perfect. If I go back to my canban
+view just to show you, you can also see
+
+00:02:07.680 --> 00:02:15.599 align:start position:19%
+that the task status that has changed to
+waiting until it's unblocked has is also
+
+00:02:13.680 --> 00:02:19.520 align:start position:19%
+reflected on my canban view. This is
+very nice. Is there any type of view
+
+00:02:17.440 --> 00:02:24.560 align:start position:19%
+that can help me visualize my task
+dependencies a little more? Great
+
+00:02:21.200 --> 00:02:29.440 align:start position:19%
+question. So, actually the best view to
+manage your different task dependencies
+
+00:02:27.120 --> 00:02:34.959 align:start position:19%
+is the Gant view. So, let's click on it
+right here. Perfect. And we can already
+
+00:02:32.400 --> 00:02:40.800 align:start position:19%
+see that my uh invites and registration
+tasks uh are linked by this line that
+
+00:02:37.760 --> 00:02:44.400 align:start position:19%
+visualizes the dependency. Uh you may
+wonder why we only have two tasks
+
+00:02:42.720 --> 00:02:48.640 align:start position:19%
+displayed here even though you have seen
+that we have more existing tasks in our
+
+00:02:46.239 --> 00:02:54.720 align:start position:19%
+project. And that is because tasks only
+appear on the gun view when they have a
+
+00:02:51.280 --> 00:02:59.840 align:start position:19%
+start and end date. Now note that uh
+this is what the gun view looks by
+
+00:02:56.239 --> 00:03:03.640 align:start position:19%
+default. Um but you can also switch to
+uh daily, monthly and even quarterly or
+
+00:03:02.720 --> 00:03:07.879 align:start position:19%
+yearly
+views. Perfect. Uh let's actually change
+
+00:03:06.560 --> 00:03:14.640 align:start position:19%
+to weekly
+view and I will uh go into the following
+
+00:03:12.319 --> 00:03:19.720 align:start position:19%
+weeks right here and I'm going to go
+ahead and create two new tasks. So I'm
+
+00:03:18.080 --> 00:03:25.440 align:start position:19%
+going to create one
+here and I'm going to call it uh I'm
+
+00:03:22.959 --> 00:03:31.040 align:start position:19%
+going to actually sorry create a new
+task from here. I'm going to call it uh
+
+00:03:28.760 --> 00:03:35.120 align:start position:19%
+bar because we'll need to prepare the
+bar for the
+
+00:03:32.680 --> 00:03:39.120 align:start position:19%
+event. Done. And as you can see, it's
+been planned for the specific uh uh
+
+00:03:37.840 --> 00:03:42.560 align:start position:19%
+moment on the planning that I have
+clicked on in the gun view. And then I
+
+00:03:41.200 --> 00:03:46.640 align:start position:19%
+will do the same thing and create
+another new task right here. And I will
+
+00:03:44.239 --> 00:03:46.640 align:start position:19%
+call it
+
+00:03:47.799 --> 00:03:55.920 align:start position:19%
+DJ. Perfect. And now if I want to create
+a dependency uh from the gun view, it's
+
+00:03:53.519 --> 00:04:03.519 align:start position:19%
+pretty easy. I just have the little red
+dot here and I can connect my two tasks
+
+00:04:00.640 --> 00:04:10.000 align:start position:19%
+uh to create the dependency to and then
+I can also use uh the little buttons
+
+00:04:07.599 --> 00:04:12.439 align:start position:19%
+here to reschedule or change the order
+of my
+
+00:04:10.920 --> 00:04:17.440 align:start position:19%
+tasks.
+Perfect. Uh this is uh something that
+
+00:04:15.519 --> 00:04:21.359 align:start position:19%
+allows you to organize your planning a
+little bit better. And also keep in mind
+
+00:04:19.440 --> 00:04:26.600 align:start position:19%
+that you have an option here in the
+calendar view to auto plan some of your
+
+00:04:23.919 --> 00:04:31.840 align:start position:19%
+existing tasks which is pretty
+handy. This will automatically assign
+
+00:04:29.440 --> 00:04:35.600 align:start position:19%
+the tasks to your employees that have
+time during the uh upcoming period. So
+
+00:04:34.080 --> 00:04:40.240 align:start position:19%
+that's also something that's pretty
+useful and it will factor in a variety
+
+00:04:38.560 --> 00:04:45.600 align:start position:19%
+of different settings you know do such
+as employee working hours, contracts,
+
+00:04:42.720 --> 00:04:48.479 align:start position:19%
+time off, public holidays and so on. So
+this is all and then of course once
+
+00:04:47.120 --> 00:04:54.320 align:start position:19%
+you've done that you can create
+dependencies dependencies if you
+
+00:04:51.000 --> 00:04:57.840 align:start position:19%
+like. Perfect. That is it for today's
+video. I hope I hope it helped you
+
+00:04:56.240 --> 00:05:01.840 align:start position:19%
+understand the task dependencies a
+little bit better and I'm looking
+
+00:04:59.919 --> 00:05:05.240 align:start position:19%
+forward to see you in another one. Thank
+you for watching.
+

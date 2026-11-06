@@ -1,0 +1,377 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.520 --> 00:00:10.240 align:start position:19%
+Welcome. In this tutorial, we will
+explore another interesting concept in
+
+00:00:07.680 --> 00:00:13.679 align:start position:19%
+project management, the milestones. When
+handling larger projects, it's easy to
+
+00:00:12.240 --> 00:00:17.600 align:start position:19%
+get overwhelmed by the number of
+different tasks and lose track of the
+
+00:00:15.839 --> 00:00:21.199 align:start position:19%
+bigger picture. That's where tracking
+the project's milestones comes in.
+
+00:00:19.600 --> 00:00:24.800 align:start position:19%
+Milestones are a great way to measure
+your project's progress, but they can
+
+00:00:22.720 --> 00:00:29.039 align:start position:19%
+also be more than that. You can use them
+as an invoicing method as well. Imagine
+
+00:00:27.279 --> 00:00:32.800 align:start position:19%
+in a construction company or in a
+business such as our wedding planning
+
+00:00:30.480 --> 00:00:36.320 align:start position:19%
+studio, you can agree to build a client
+after a certain milestone has been
+
+00:00:34.640 --> 00:00:40.559 align:start position:19%
+accomplished. Maybe laying the
+foundations of a building or confirming
+
+00:00:38.320 --> 00:00:44.239 align:start position:19%
+the booking of a wedding venue. This
+allows for the maintenance of a cash
+
+00:00:42.239 --> 00:00:48.399 align:start position:19%
+flow for the further funding of the
+project. Let's go ahead and check out
+
+00:00:46.320 --> 00:00:53.680 align:start position:19%
+together how this works in Odo. All
+right, so let's go ahead and head into
+
+00:00:50.719 --> 00:00:58.879 align:start position:19%
+our project configuration and settings
+and we will enable masters right here.
+
+00:00:56.960 --> 00:01:01.920 align:start position:19%
+And once this is done, we will go back
+into our project dashboard. And
+
+00:01:00.719 --> 00:01:07.040 align:start position:19%
+something to keep in mind is that
+milestones are project specific. So
+
+00:01:04.400 --> 00:01:11.520 align:start position:19%
+let's go ahead and create two milestones
+for this wedding that we're planning
+
+00:01:08.799 --> 00:01:15.840 align:start position:19%
+right here for Mr. and Mrs. Spindler. So
+we'll click on the vertical ellipses and
+
+00:01:13.760 --> 00:01:21.200 align:start position:19%
+select milestones.
+So our first big accomplishment of this
+
+00:01:18.240 --> 00:01:24.200 align:start position:19%
+project is actually booking the venue.
+So
+
+00:01:24.240 --> 00:01:31.200 align:start position:19%
+let's create that. We could also select
+a deadline if we wanted to, but for now
+
+00:01:28.320 --> 00:01:35.200 align:start position:19%
+we'll keep it like this. And then um the
+second milestone will be handling the
+
+00:01:33.360 --> 00:01:38.240 align:start position:19%
+rehearsal dinner. After which we'll
+still have time some time to reflect and
+
+00:01:36.799 --> 00:01:43.040 align:start position:19%
+adjust anything that we can improve
+before the big day. So let's add another
+
+00:01:40.479 --> 00:01:48.079 align:start position:19%
+milestone.
+Rehearsal dinner.
+
+00:01:45.520 --> 00:01:52.000 align:start position:19%
+Perfect. So now that this is done, we're
+going to go ahead and link some tasks to
+
+00:01:49.920 --> 00:01:57.200 align:start position:19%
+our new milestones. So let's go into
+project, open the canvan view, and for
+
+00:01:55.280 --> 00:02:02.000 align:start position:19%
+the venue booking, we have three tasks
+that absolutely need to be completed in
+
+00:01:59.600 --> 00:02:07.439 align:start position:19%
+order for the milestone to be reached.
+So it's the venue short list. I will
+
+00:02:04.719 --> 00:02:11.680 align:start position:19%
+open the task as and as you can see, I
+have the new uh milestone field right
+
+00:02:10.080 --> 00:02:15.599 align:start position:19%
+here and I can select my booking the
+venue milestone.
+
+00:02:14.000 --> 00:02:23.440 align:start position:19%
+And I will do the same for the other two
+tasks. So the venue visits right here. I
+
+00:02:19.440 --> 00:02:30.440 align:start position:19%
+will add the milestone as well.
+And the last one is the venue selection.
+
+00:02:25.680 --> 00:02:30.440 align:start position:19%
+Again, I will link it to the milestone.
+
+00:02:30.959 --> 00:02:37.120 align:start position:19%
+Perfect. Now that it's done for all of
+those tasks, we can say that we've
+
+00:02:35.200 --> 00:02:40.959 align:start position:19%
+actually handled all of them and we can
+now mark them as done. So we will just
+
+00:02:39.120 --> 00:02:46.480 align:start position:19%
+do it really quickly directly from the
+condon view. So we will say done
+
+00:02:44.800 --> 00:02:51.760 align:start position:19%
+for the venue short shirt short list and
+done for the venue visits as well.
+
+00:02:49.360 --> 00:02:55.599 align:start position:19%
+Perfect. So now the three tasks that are
+linked to this milestone have been
+
+00:02:53.599 --> 00:03:02.319 align:start position:19%
+accomplished and we can use our handy
+top bar at the uh to access the project
+
+00:02:58.000 --> 00:03:07.280 align:start position:19%
+dashboard and see our milestone status.
+Perfect. So now we can see that the
+
+00:03:04.640 --> 00:03:11.360 align:start position:19%
+booking the venue milestone right here
+is uh green now which means that it's
+
+00:03:09.599 --> 00:03:16.239 align:start position:19%
+ready to be marked as reached. Let's go
+ahead and do that. Easy as that. And now
+
+00:03:14.319 --> 00:03:19.599 align:start position:19%
+we could repeat the same steps in order
+to mark our second milestone, the
+
+00:03:18.080 --> 00:03:23.680 align:start position:19%
+rehears
+done. Or we can simply just say that
+
+00:03:22.000 --> 00:03:28.720 align:start position:19%
+we've reached it without having the
+tasks linked to it like so. That's
+
+00:03:26.560 --> 00:03:34.239 align:start position:19%
+great, Susanna. But you also mentioned
+that we could invoice customer by
+
+00:03:31.120 --> 00:03:39.280 align:start position:19%
+milestone. Uh can you tell us more? Yes,
+of course. So in order to do that, let's
+
+00:03:37.120 --> 00:03:43.680 align:start position:19%
+just hop on over to the sales
+application and we will go into our
+
+00:03:41.920 --> 00:03:48.480 align:start position:19%
+products and products again in order to
+create a new service product. So let's
+
+00:03:46.080 --> 00:03:55.760 align:start position:19%
+hit new. I will call this product a
+wedding planning and I will uh call I
+
+00:03:52.879 --> 00:04:00.000 align:start position:19%
+will just say by milestones in the title
+just for myself so I don't get lost. And
+
+00:03:58.400 --> 00:04:04.799 align:start position:19%
+then I will of course set the product
+type to service. And then in order to
+
+00:04:03.120 --> 00:04:09.120 align:start position:19%
+make things easier, let's also say that
+we want a project to be automatically
+
+00:04:06.400 --> 00:04:14.400 align:start position:19%
+created once we make a sale.
+So let's say project and uh we will even
+
+00:04:12.480 --> 00:04:18.079 align:start position:19%
+use one of our existing projects as a
+template in order to save time on
+
+00:04:16.000 --> 00:04:24.880 align:start position:19%
+creating tasks. I do have one project
+that I keep aside just for this purpose.
+
+00:04:22.000 --> 00:04:29.600 align:start position:19%
+So uh wedding project template and for
+invoicing policy of course we will hit
+
+00:04:27.360 --> 00:04:33.759 align:start position:19%
+uh based on milestones.
+And let's not forget the price. We will
+
+00:04:31.680 --> 00:04:38.400 align:start position:19%
+say 1,000
+per unit
+
+00:04:35.600 --> 00:04:44.400 align:start position:19%
+and save our new product.
+And then next up, let's go and um select
+
+00:04:42.479 --> 00:04:49.120 align:start position:19%
+our orders and quotations in order to
+create a new sales order. So let's
+
+00:04:47.040 --> 00:04:53.919 align:start position:19%
+choose our customers. Let's go for uh
+Mr. and Mrs. Loveird right here. Add a
+
+00:04:51.680 --> 00:04:59.199 align:start position:19%
+product.
+Uh so we have our wedding wedding
+
+00:04:56.800 --> 00:05:03.680 align:start position:19%
+planning by milestones. We will just go
+with one for quantity here. And we will
+
+00:05:01.600 --> 00:05:07.680 align:start position:19%
+hit confirm.
+And as soon as we've confirmed the
+
+00:05:05.360 --> 00:05:12.479 align:start position:19%
+quotation, it turns into a sales order.
+And we have two smart buttons created
+
+00:05:09.759 --> 00:05:17.520 align:start position:19%
+right here in the um top right corner.
+So we have one to access our project.
+
+00:05:15.120 --> 00:05:22.240 align:start position:19%
+And then we also have one um new smart
+button that allows us to access our
+
+00:05:19.120 --> 00:05:27.759 align:start position:19%
+milestones directly. So by default we
+have one milestone always created. Um
+
+00:05:25.039 --> 00:05:32.240 align:start position:19%
+but what I can do is I can rename it. So
+I could say that for this project just
+
+00:05:30.080 --> 00:05:37.520 align:start position:19%
+as with the previous one I will actually
+want to have two uh milestones I want to
+
+00:05:35.280 --> 00:05:43.759 align:start position:19%
+split my work into two milestones and I
+will want to say that uh we have um the
+
+00:05:40.320 --> 00:05:47.199 align:start position:19%
+wedding the venue booking
+just same as in our previous case when
+
+00:05:45.600 --> 00:05:53.720 align:start position:19%
+we were not invoicing the client by
+milestone and then we also have uh the
+
+00:05:50.240 --> 00:05:53.720 align:start position:19%
+rehearsal dinner
+
+00:05:53.840 --> 00:06:01.919 align:start position:19%
+and I can say that each of those
+milestones composes 50% % of what I um
+
+00:05:59.120 --> 00:06:06.400 align:start position:19%
+have agreed with the customers uh the
+price of my services.
+
+00:06:04.080 --> 00:06:10.800 align:start position:19%
+And now that this is done, I can mark
+those uh milestones as uh reached. And
+
+00:06:09.120 --> 00:06:14.960 align:start position:19%
+again, I can also go ahead and link
+tasks to it uh to a certain milestones
+
+00:06:13.120 --> 00:06:19.120 align:start position:19%
+like I did in the previous case. But
+here I will just go ahead and say that I
+
+00:06:17.199 --> 00:06:24.319 align:start position:19%
+have already reached the venue booking
+milestone.
+
+00:06:21.680 --> 00:06:29.600 align:start position:19%
+Perfect. And once this is done, if I now
+go back into my sales order, I will see
+
+00:06:27.120 --> 00:06:33.759 align:start position:19%
+that my sales order line has changed. So
+you see here that my quantity is always
+
+00:06:31.600 --> 00:06:39.600 align:start position:19%
+one, but in delivered, I already
+delivered uh 0.5. So the one milestone
+
+00:06:36.800 --> 00:06:43.759 align:start position:19%
+that I have split my work into. And if I
+wish to do it, I can now create the
+
+00:06:41.440 --> 00:06:50.720 align:start position:19%
+invoice, regular invoice, and I can
+create a draft. And we see that um I can
+
+00:06:47.120 --> 00:06:55.840 align:start position:19%
+now um invoice my customers to €500
+which is half of the initial price. I
+
+00:06:53.840 --> 00:06:59.759 align:start position:19%
+can confirm and then my customers will
+pay me the 500 and I can continue
+
+00:06:58.000 --> 00:07:06.400 align:start position:19%
+funding of the project so I can continue
+to um invest in whatever I need while I
+
+00:07:03.919 --> 00:07:12.880 align:start position:19%
+go ahead and work on my second milestone
+of this lengthy project. So that's it
+
+00:07:09.440 --> 00:07:16.800 align:start position:19%
+for um uh creating milestones and also
+invoicing your customers by milestones.
+
+00:07:15.440 --> 00:07:19.919 align:start position:19%
+Uh if you have any questions, don't
+hesitate to let to leave them in the
+
+00:07:18.400 --> 00:07:25.000 align:start position:19%
+comments. Thank you very much for
+watching and I look forward to seeing
+
+00:07:21.360 --> 00:07:25.000 align:start position:19%
+you in our next tutorial.
+

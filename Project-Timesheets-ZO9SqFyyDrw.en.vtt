@@ -1,0 +1,208 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.760 --> 00:00:09.360 align:start position:19%
+Hello everyone. In any business, the
+quality of service provided to clients
+
+00:00:07.600 --> 00:00:13.759 align:start position:19%
+is crucial for encouraging them to
+return to your company and ideally to
+
+00:00:11.679 --> 00:00:17.359 align:start position:19%
+become true ambassadors of your brand.
+The good news is that ODU project
+
+00:00:15.519 --> 00:00:20.560 align:start position:19%
+includes a customer rating tool that
+allows your clients to share some of the
+
+00:00:18.960 --> 00:00:23.920 align:start position:19%
+most valuable information with you,
+their feedback on the service that you
+
+00:00:22.080 --> 00:00:27.519 align:start position:19%
+provided. Let's see together how it's
+done in our database. So, first up,
+
+00:00:26.320 --> 00:00:32.079 align:start position:19%
+we'll need to make sure that the
+customer ratings feature is enabled. So,
+
+00:00:29.679 --> 00:00:35.760 align:start position:19%
+we'll go into projects uh project,
+excuse me, configuration and settings
+
+00:00:34.000 --> 00:00:41.680 align:start position:19%
+and we will enable customer ratings
+right here and save that.
+
+00:00:39.920 --> 00:00:45.520 align:start position:19%
+Then next up, we'll go into our projects
+and we will want to work with this one
+
+00:00:43.040 --> 00:00:49.520 align:start position:19%
+right here, our Jurassic booking source.
+So, I will click on it and what I would
+
+00:00:47.520 --> 00:00:54.160 align:start position:19%
+like to uh set up is I would like the
+email asking what our clients think of
+
+00:00:51.600 --> 00:00:58.879 align:start position:19%
+the service to be sent when our project
+uh when our task, excuse me, reaches the
+
+00:00:56.320 --> 00:01:04.559 align:start position:19%
+feedback stage right here. So I will
+click on um the gear icon. I will choose
+
+00:01:02.399 --> 00:01:09.840 align:start position:19%
+edit
+and I have an option here to select a
+
+00:01:07.360 --> 00:01:13.840 align:start position:19%
+rating email template. So I will select
+this one task rating request uh which is
+
+00:01:12.240 --> 00:01:19.119 align:start position:19%
+created by default when this option is
+enabled. And if I wish I can even expand
+
+00:01:16.799 --> 00:01:22.720 align:start position:19%
+it to see what the email sent to the
+customer will look like and I can make
+
+00:01:20.640 --> 00:01:27.360 align:start position:19%
+changes if I wish as well. So I will
+save and close. And then next up I have
+
+00:01:25.119 --> 00:01:32.079 align:start position:19%
+this automatic tandon status feature.
+And this is a feature that once enabled
+
+00:01:30.000 --> 00:01:35.920 align:start position:19%
+it will update the status of a task
+automatically depending on the client's
+
+00:01:33.840 --> 00:01:41.439 align:start position:19%
+feedback. So if a client gives good
+feedback from uh this will update the
+
+00:01:38.560 --> 00:01:45.680 align:start position:19%
+task uh status to approved with the
+green dot while neutral or negative
+
+00:01:43.920 --> 00:01:51.119 align:start position:19%
+feedback from the customer will change
+the task status to orange dot/changes
+
+00:01:49.439 --> 00:01:55.119 align:start position:19%
+requested.
+So, I will leave this enabled because I
+
+00:01:53.119 --> 00:01:58.880 align:start position:19%
+like to be aware if my customers give
+negative feedback. And I will save and
+
+00:01:57.200 --> 00:02:03.759 align:start position:19%
+close.
+Perfect. Now that this is done, we can
+
+00:02:02.000 --> 00:02:08.239 align:start position:19%
+actually take it for a spin and see what
+it looks like. So, I will take one of my
+
+00:02:05.280 --> 00:02:13.520 align:start position:19%
+existing tasks, this one right here, and
+I will simply drag uh it into the
+
+00:02:10.879 --> 00:02:19.280 align:start position:19%
+feedback stage.
+Immediately what we can see is that um
+
+00:02:16.000 --> 00:02:23.840 align:start position:19%
+if we go into the task the email has
+been automatically triggered and sent to
+
+00:02:21.120 --> 00:02:28.000 align:start position:19%
+the customer and since in this case I am
+the customer myself I can even see it in
+
+00:02:26.080 --> 00:02:32.160 align:start position:19%
+my own mailbox. So, let me just show
+you. And on the customer's end, the
+
+00:02:30.319 --> 00:02:36.720 align:start position:19%
+email looks like this. And if they click
+on one of the smileys,
+
+00:02:35.040 --> 00:02:40.239 align:start position:19%
+they will be taken into our customer
+portal. And I will click on the happy
+
+00:02:38.800 --> 00:02:44.560 align:start position:19%
+smiley again because I'm very satisfied
+with the service. And I can even uh
+
+00:02:42.959 --> 00:02:54.400 align:start position:19%
+leave a little comment about my
+experience. So, I can say best
+
+00:02:49.519 --> 00:02:58.720 align:start position:19%
+day of my life. Full stop.
+And in cups, of course, because I'm very
+
+00:02:55.840 --> 00:03:03.280 align:start position:19%
+happy. and I will send my feedback.
+Perfect. Now, if I go back to my
+
+00:03:00.800 --> 00:03:07.319 align:start position:19%
+database
+and refresh my task,
+
+00:03:08.000 --> 00:03:17.120 align:start position:19%
+I see that um on my task, I now have
+this little smiley here. The last rating
+
+00:03:13.599 --> 00:03:22.239 align:start position:19%
+is satisfied. And I also have uh my
+comment visible here. And automatically,
+
+00:03:20.000 --> 00:03:26.720 align:start position:19%
+the task status has been updated to
+approved because the customer is happy.
+
+00:03:24.400 --> 00:03:31.280 align:start position:19%
+Perfect. That's done for this task. But
+if I would like to have a broader look,
+
+00:03:28.720 --> 00:03:35.840 align:start position:19%
+I can also go into the reporting option
+here. And I can click on customer
+
+00:03:33.120 --> 00:03:39.360 align:start position:19%
+ratings. And here I can see how all of
+the different clients are feeling about
+
+00:03:37.440 --> 00:03:43.760 align:start position:19%
+our services and even about the person
+that handled their task. And that's it.
+
+00:03:42.319 --> 00:03:47.760 align:start position:19%
+Now you've gathered your client's
+feedback. You have the opportunity to
+
+00:03:45.200 --> 00:03:51.120 align:start position:19%
+adjust and improve your services. And
+this will hopefully allow you to win
+
+00:03:49.440 --> 00:03:54.480 align:start position:19%
+even more satisfied clients in the
+future. I hope this video has been
+
+00:03:52.560 --> 00:03:58.760 align:start position:19%
+helpful for you and I will see you in
+another one. Thank you for watching.
+
